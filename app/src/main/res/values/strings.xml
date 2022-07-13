@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">contactCard</string>
+    <string name="label_card">"Cartão: "</string>
+    <string name="todo">TODO</string>
+    <string name="label_nome">Nome</string>
+    <string name="novo_card">Novo Card</string>
+    <string name="hint_fone">(33) 3333-3333</string>
+    <string name="hint_obs">obs</string>
+    <string name="btn_confirma">Confirmar</string>
+    <string name="tit_email">e-mail</string>
+</resources>
